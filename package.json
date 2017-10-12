@@ -1,0 +1,9 @@
+{
+  "name": "add_surge_auto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2"
+  }
+}
